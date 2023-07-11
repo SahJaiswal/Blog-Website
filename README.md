@@ -29,51 +29,19 @@ This is a Django-based website that allows users to post, delete, and update blo
 git clone https://github.com/your-username/django-blog-website.git
 ```
 
-2. Change into the project directory:
-
-```
-cd django-blog-website
-```
-
-3. Create a virtual environment:
-
-```
-python -m venv myenv
-```
-
-4. Activate the virtual environment:
-
-- On Windows:
-
-```
-myenv\Scripts\activate
-```
-
-- On macOS and Linux:
-
-```
-source myenv/bin/activate
-```
-
-5. Install the required dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-6. Set up the database:
+2. Set up the database:
 
 ```
 python manage.py migrate
 ```
 
-7. Start the development server:
+3. Start the development server:
 
 ```
 python manage.py runserver
 ```
 
-8. Open your web browser and visit `http://localhost:8000` to access the website.
+4. Open your web browser and visit `http://localhost:8000` to access the website.
 
 ## Configuration
 
@@ -94,11 +62,3 @@ python manage.py runserver
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this README file according to your project's specific details and requirements. Make sure to include any additional information, setup instructions, or project structure that may be relevant for users who want to understand and use your Django website.
