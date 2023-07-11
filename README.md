@@ -1,8 +1,3 @@
-## Blog Website
-End to End django based wesite.
-
-Sure! Here's an example README file for your Django website project:
-
 # Django Blog Website
 
 This is a Django-based website that allows users to post, delete, and update blogs. Users can also maintain their profiles on the website. The project includes a registration system where users can create an account, login, and reset their password through email.
