@@ -73,4 +73,4 @@ To set up and run the Django Blog Website project, follow these steps:
 
 ## Acknowledgements
 
-The Django Blog Website project was developed by [Your Name].
+The Django Blog Website project was developed by [sahjaiswal](https://github.com/sahjaiswal).
